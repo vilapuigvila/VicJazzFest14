@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  
+
+  Created by albert vila puigvila on 08/04/14.
+
+*/
+
+
+"refresh_control"        = "deixa anar per refrescar...";
+"data_updated"           = "s'ha actualitzat";
+"no_data_updated"        = "no hi ha nova informació";

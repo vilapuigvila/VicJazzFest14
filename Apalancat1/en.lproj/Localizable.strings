@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  
+
+  Created by albert vila puigvila on 08/04/14.
+
+*/
+
+
+"refresh_control"        = "pull to refresh...";
+"data_updated"           = "info has been updated";
+"no_data_updated"        = "there are not info to updated";
